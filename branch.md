@@ -5,3 +5,7 @@ git branch  #有*标志的为当前使用的分支
 git checkout <branch/tag>
 
 只有在这之后才可以进行分支提交什么的
+
+## test branch
+这时一个分支测试，需要了解测试原理。分支创建方式，合并方式，冲突解决方式
+
